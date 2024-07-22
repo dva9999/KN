@@ -12,4 +12,10 @@ sudo apt install deepin-screenshot  -y
 sudo apt install deepin-screenshot  -y
 
 #vscode 
-snap install code -y
+snap install code 
+
+#tweak  ubuntu18美化工具
+sudo apt-get update
+sudo apt-get install gnome-tweaks gnome-tweak-tool -y
+
+
