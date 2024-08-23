@@ -19,3 +19,4 @@ sudo apt-get update
 sudo apt-get install gnome-tweaks gnome-tweak-tool -y
 
 
+sudo apt-get install filezilla -y
